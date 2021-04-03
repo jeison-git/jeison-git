@@ -1,4 +1,4 @@
-# Hi, I'm Jeison  [<img width="40px" src="https://giphy.com/gifs/S8fCuXghLZY2I/html5" />]
+# Hi, I'm Jeison  <img width="40px" src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/source.gif" />
 
 ## I'm a Computer Science Administration Student 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅

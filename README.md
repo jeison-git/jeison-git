@@ -3,7 +3,7 @@
 ## I'm a Computer Science Administration Student 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - I will not stop trying.
----
+
 [![Twitter: Jeison](https://img.shields.io/twitter/follow/jeison96637367?style=social)](https://twitter.com/jeison96637367)
 [![Linkedin: Jeison](https://img.shields.io/badge/-Jeison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeison-aguilar-a86a741a7/)](https://www.linkedin.com/in/jeison-aguilar-a86a741a7/)
 [![GitHub Jeison](https://img.shields.io/github/followers/jeison-git?label=follow&style=social)](https://github.com/jeison-git)

@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeison 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/jeison-git/jeison-git/issues/1#issue-849581751" alt="cover" />
+<a href="https://picasion.com/resize-gif/"><img src="https://i.picasion.com/resize90/760045a7a1322c63a77f837dc19b2b8e.gif" width="1024" height="480" border="0" alt="picasion.com" /></a><br />
 </div>
 
 </div>
@@ -9,7 +9,7 @@
 ## About me
 ### I'm a Computer Science Administration Student 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - I will not stop trying.
+- 💪 Future Goals: Learn more technologies - I will not stop trying.
 
 <h2><i>Follow me:</i></h2>
 <div  align="center">
